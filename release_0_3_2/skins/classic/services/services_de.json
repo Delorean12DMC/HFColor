@@ -1,0 +1,37 @@
+{
+    "oil_service" : 
+    {
+        "name" : "Ölwechsel",
+        "alert_window" : "servicesAlerts/oilServiceAlertWindow.xml",
+        "km_limit" : 10000,
+        "show_alert" : true
+    },    
+    "spark_plugs" : 
+    {
+        "name" : "Zündkerzenwechsel",
+        "alert_window" : "servicesAlerts/sparkPlugsServiceAlertWindow.xml",
+        "km_limit" : 60000,
+        "show_alert" : true
+    },    
+    "inspection" : 
+    {
+        "name" : "Inspektion",
+        "alert_window" : "servicesAlerts/generalServiceAlertWindow.xml",
+        "km_limit" : 1000,
+        "show_alert" : true
+    },
+    "air_filter" : 
+    {
+        "name" : "Luftfilter",
+        "alert_window" : "servicesAlerts/airFilterServiceAlertWindow.xml",
+        "km_limit" : 20000,
+        "show_alert" : true
+    },
+    "cabin_filter" : 
+    {
+        "name" : "Kabinenfilter",
+        "alert_window" : "servicesAlerts/cabinFilterServiceAlertWindow.xml",
+        "km_limit" : 20000,
+        "show_alert" : true
+    }     
+}

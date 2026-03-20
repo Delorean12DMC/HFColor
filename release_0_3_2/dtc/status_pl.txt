@@ -1,0 +1,83 @@
+00;-
+01;Sygna³ zwarty z plusem
+02;Sygna³ zwarty z mas¹
+03;Brak sygna³u
+04;Usterka mechaniczna
+05;Wejœcie otwarte
+06;Za wysoki sygna³
+07;Za niski sygna³
+08;Granica regulacji przekroczona
+09;Wartoœæ skrajna adaptacji przekroczona
+10;Wartoœæ skrajna adaptacji nieosi¹gniêta
+11;Granica regulacji nieosi¹gniêta
+12;Wartoœæ skrajna adaptacji przekroczona (przy obci¹¿eniu)
+13;Wartoœæ skrajna adaptacji nieosi¹gniêta (przy obci¹¿eniu)
+14;Wartoœæ skrajna adaptacji przekroczona (na biegu ja³owym)
+15;Wartoœæ skrajna adaptacji nieosi¹gniêta (na biegu ja³owym)
+16;Sygna³ poza tolerancj¹
+17;Ró¿nica regulacji
+18;Górna wartoœæ skrajna
+19;Dolna wartoœæ skrajna
+20;B³¹d w nastawach podstawowych
+21;Czas narastania ciœnienia z przodu za d³ugi
+22;Czas redukcji ciœnienia z przodu za d³ugi
+23;Czas narastania ciœnienia z ty³u za d³ugi
+24;Czas redukcji ciœnienia z ty³u za d³ugi
+25;Niezdefiniowany stan prze³¹cznika
+26;Wyjœcie otwarte
+27;Niezrozumia³y sygna³
+28;Zwarcie z plusem
+29;Zwarcie z mas¹
+30;Przerwa / zwarcie z plusem
+31;Przerwa / zwarcie z mas¹
+32;Za du¿a wartoœæ rezystancji
+33;Za ma³a wartoœæ rezystancji
+34;Nie rozpoznano rodzaju usterki
+35;-
+36;Przerwa w obwodzie
+37;uszkodzony
+38;Wyjœcie nie prze³¹cza / zwarcie z plusem
+39;Wyjœcie nie prze³¹cza / zwarcie z mas¹
+40;Zwarcie do innego wyjœcia
+41;Zablokowany lub bez napiêcia
+42;Za du¿e odchylenie prêdkoœci
+43;zamkniêty
+44;zwarcie
+45;Z³¹cze wtykowe
+46;Nieszczelnoœæ
+47;Nieprawid³owo pod³¹czone
+48;Napiêcie zasilaj¹ce
+49;Brak komunikacji
+50;Po³o¿enie przyspieszone nieosi¹gniête
+51;Po³o¿enie opóŸnione nieosi¹gniête
+52;Za wysokie napiêcie zasilaj¹ce
+53;Za ma³a wartoœæ napiêcia zasilaj¹cego
+54;Niew³aœciwe wyposa¿enie
+55;Nieudana adaptacja
+56;W trybie awaryjnym (Limp-Home Mode)
+57;Usterka w obwodzie elektrycznym
+58;Nie rygluje
+59;Nie odryglowuje
+60;Nie zabezpiecza
+61;Nie odbezpiecza
+62;Brak lub niepoprawne ustawienia
+63;Wy³¹czenie z powodu wysokiej temperatury
+64;Aktualnie nie mo¿na sprawdziæ
+65;Nieuprawniony
+66;Niedopasowane
+67;Nieosi¹gniêta wymagana wartoœæ
+68;Cylinder 1
+69;Cylinder 2
+70;Cylinder 3
+71;Cylinder 4
+72;Cylinder 5
+73;Cylinder 6
+74;Cylinder 7
+75;Cylinder 8
+76;Brak zacisku 30
+77;Wewnêtrzne napiêcie zasilaj¹ce
+78;Brakuj¹ce informacje
+79;Odczytaæ pamiêæ usterek
+80;W jednoprzewodowym trybie pracy
+81;otwarty
+82;Aktywny

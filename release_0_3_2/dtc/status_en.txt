@@ -1,0 +1,83 @@
+00;-
+01;Signal Shorted to Plus
+02;Signal Shorted to Ground
+03;No Signal
+04;Mechanical Malfunction
+05;Input Open
+06;Signal too High
+07;Signal too Low
+08;Control Limit Surpassed
+09;Adaptation Limit Surpassed
+16;Adaptation Limit Not Reached
+17;Control Limit Not Reached
+18;Adaptation Limit (Mul) Exceeded
+19;Adaptation Limit (Mul) Not Reached
+20;Adaptation Limit (Add) Exceeded
+21;Adaptation Limit (Add) Not Reached
+22;Signal Outside Specifications
+23;Control Difference
+24;Upper Limit
+25;Lower Limit
+32;Malfunction in Basic Setting
+33;Front Pressure Build-up Time too Long
+34;Front Pressure Reducing Time too Long
+35;Rear Pressure Build-up Time too Long
+36;Rear Pressure Reducing Time too Long
+37;Unknown Switch Condition
+38;Output Open
+39;Implausible Signal
+40;Short to Plus
+41;Short to Ground
+48;Open or Short to Plus
+49;Open or Short to Ground
+50;Resistance Too High
+51;Resistance Too Low
+52;No Elaboration Available
+53;-
+54;Open Circuit
+55;Faulty
+56;Output won't Switch or Short to Plus
+57;Output won't Switch or Short to Ground
+64;Short to Another Output
+65;Blocked or No Voltage
+66;Speed Deviation too High
+67;Closed
+68;Short Circuit
+69;Connector
+70;Leaking
+71;No Communications or Incorrectly Connected
+72;Supply voltage
+73;No Communications
+80;Setting (Early) Not Reached
+81;Setting (Late) Not Reached
+82;Supply Voltage Too High
+83;Supply Voltage Too Low
+84;Incorrectly Equipped
+85;Adaptation Not Successful
+86;In Limp-Home Mode
+87;Electric Circuit Failure
+88;Can't Lock
+89;Can't Unlock
+96;Won't Safe
+97;Won't De-Safe
+98;No or Incorrect Adjustment
+99;Temperature Shut-Down
+100;Not Currently Testable
+101;Unauthorized
+102;Not Matched
+103;Set-Point Not Reached
+104;Cylinder 1
+105;Cylinder 2
+112;Cylinder 3
+113;Cylinder 4
+114;Cylinder 5
+115;Cylinder 6
+116;Cylinder 7
+117;Cylinder 8
+118;Terminal 30 missing
+119;Internal Supply Voltage
+120;Missing Messages
+121;Please Check Fault Codes
+128;Single-Wire Operation
+129;Open
+130;Activated

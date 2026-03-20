@@ -1,0 +1,83 @@
+00;-
+01;Signal an Plus
+02;Signal an Masse
+03;kein Signal
+04;Mechanischer Fehler
+05;Eingang Offen
+06;Signal zu groß
+07;Signal zu klein
+08;Regelgrenze überschritten
+09;Adaptionsgrenze überschritten
+10;Adaptionsgrenze unterschritten
+11;Regelgrenze unterschritten
+12;Adaptionsgrenze ( mul ) überschritten
+13;Adaptionsgrenze ( mul ) unterschritten
+14;Adaptionsgrenze ( add ) überschritten
+15;Adaptionsgrenze ( add ) unterschritten
+16;Signal außerhalb der Toleranz
+17;Regeldifferenz
+18;oberer Anschlagwert
+19;unterer Anschlagwert
+20;Fehler in Grundeinstellung
+21;Zeit für Druckaufbau vorn zu lang
+22;Zeit für Druckabbau vorn zu lang
+23;Zeit für Druckaufbau hinten zu lang
+24;Zeit für Druckabbau hinten zu lang
+25;undefinierter Schalterzustand
+26;Ausgang Offen
+27;unplausibles Signal
+28;Kurzschluss nach Plus
+29;Kurzschluss nach Masse
+30;Unterbrechung / Kurzschluß nach Plus
+31;Unterbrechung / Kurzschluß nach Masse
+32;Widerstandswert zu groß
+33;Widerstandswert zu klein
+34;keine Fehlerart erkannt
+35;-
+36;Unterbrechung
+37;defekt
+38;Ausgang schaltet nicht / KS nach Plus
+39;Ausgang schaltet nicht / KS nach Masse
+40;Kurzschluß zu anderem Ventil
+41;Blockiert oder Spannungslos
+42;Drehzahlabweichung zu groß
+43;geschlossen
+44;Kurzschluss
+45;Steckverbindung
+46;undicht
+47;falsch Angeschlossen
+48;Spannungsversorgung
+49;keine Kommunikation
+50;Stellung früh nicht erreicht
+51;Stellung spät nicht erreicht
+52;Spannungsversorgung zu groß
+53;Spannungsversorgung zu klein
+54;falsche Ausstattung
+55;Adaption nicht erfolgt
+56;im Notlauf
+57;elektr. Fehler im Stromkreis
+58;verriegelt nicht
+59;entriegelt nicht
+60;safed nicht
+61;entsafed nicht
+62;keine oder falsche Einstellung
+63;Temperaturabschaltung
+64;zur Zeit nicht prüfbar
+65;nicht berechtigt
+66;Abgleich nicht durchgeführt
+67;Sollwert nicht erreicht
+68;Zylinder 1
+69;Zylinder 2
+70;Zylinder 3
+71;Zylinder 4
+72;Zylinder 5
+73;Zylinder 6
+74;Zylinder 7
+75;Zylinder 8
+76;Klemme 30 fehlt
+77;interne Spannungsversorgung
+78;fehlende Botschaften
+79;bitte Fehlerspeicher auslesen
+80;im Eindrahtbetrieb
+81;offen
+82;ausgelöst
